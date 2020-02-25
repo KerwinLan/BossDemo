@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "name": "刘女士",
+      "position": "人事经理"
+    },
+    "company": {
+      "name": "大鼎科技"
+    },
+    "last_message": {
+      "content": "该Boss承诺名下所有职位不向您收费，如对方向您收取任何费用，请立即举报",
+      "time": "昨天"
+    }
+  },
+  {
+    "user": {
+      "name": "徐女士",
+      "position": "行政人事主管"
+    },
+    "company": {
+      "name": "狄普"
+    },
+    "last_message": {
+      "content": "该Boss承诺名下所有职位不向您收费，如对方向您收取任何费用，请立即举报",
+      "time": "昨天"
+    }
+  },
+  {
+    "user": {
+      "name": "曹女士",
+      "position": "hr"
+    },
+    "company": {
+      "name": "优路科技"
+    },
+    "last_message": {
+      "content": "该Boss承诺名下所有职位不向您收费，如对方向您收取任何费用，请立即举报",
+      "time": "昨天"
+    }
+  },
+  {
+    "user": {
+      "name": "杜女士",
+      "position": "HR经理"
+    },
+    "company": {
+      "name": "九吨科技"
+    },
+    "last_message": {
+      "content": "该Boss承诺名下所有职位不向您收费，如对方向您收取任何费用，请立即举报",
+      "time": "昨天"
+    }
+  },
+  {
+    "user": {
+      "name": "张先生",
+      "position": "经理"
+    },
+    "company": {
+      "name": "华美华星"
+    },
+    "last_message": {
+      "content": "该Boss承诺名下所有职位不向您收费，如对方向您收取任何费用，请立即举报",
+      "time": "2月16日"
+    }
+  }
+]

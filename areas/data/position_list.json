@@ -1,0 +1,132 @@
+[
+  {
+    "name": "PHP开发工程师",
+    "salary": "9-12k",
+    "company": {
+      "name": "匿名科技",
+      "finance": "未融资"
+    },
+    "tags": ["渝中区 大坪", "经验不限", "大专"],
+    "recruiter": {
+      "name": "赵彬如",
+      "position": "HR"
+    }
+  },
+  {
+    "name": "android开发工程师",
+    "salary": "4-9k",
+    "company": {
+      "name": "佰阳高科科技有限公司",
+      "finance": "未融资"
+    },
+    "tags": ["南岸区", "3-5年", "大专"],
+    "recruiter": {
+      "name": "张女士",
+      "position": "人事"
+    }
+  },
+  {
+    "name": "高级Web前端开发工程师",
+    "salary": "10-15k",
+    "company": {
+      "name": "晓道科技",
+      "finance": "不需要融资"
+    },
+    "tags": ["渝中区 大坪", "3-5年", "本科"],
+    "recruiter": {
+      "name": "王先生",
+      "position": "Recruiter"
+    }
+  },
+  {
+    "name": "iOS高级开发工程师/专家",
+    "salary": "20-40k·13薪",
+    "company": {
+      "name": "阿里巴巴集团",
+      "finance": "不需要融资"
+    },
+    "tags": ["丰都县", "3-5年", "本科"],
+    "recruiter": {
+      "name": "陈飞",
+      "position": "无线开发者专家"
+    }
+  },
+  {
+    "name": "iOS高级开发工程师",
+    "salary": "10-15k·14薪",
+    "company": {
+      "name": "小不点",
+      "finance": "天使轮"
+    },
+    "tags": ["渝北区 新牌坊", "3-5年", "大专"],
+    "recruiter": {
+      "name": "陈先生",
+      "position": "招聘者"
+    }
+  },
+  {
+    "name": "FPGA硬件工程师",
+    "salary": "5-10k",
+    "company": {
+      "name": "城盛智略",
+      "finance": ""
+    },
+    "tags": ["江北区 石马河", "1-3年", "本科"],
+    "recruiter": {
+      "name": "张先生",
+      "position": "招聘者"
+    }
+  },
+  {
+    "name": "前端开发工程师",
+    "salary": "5-10k",
+    "company": {
+      "name": "上海精灵天下",
+      "finance": "不需要融资"
+    },
+    "tags": ["重庆", "1-3年", "大专"],
+    "recruiter": {
+      "name": "徐晶",
+      "position": "人事"
+    }
+  },
+  {
+    "name": "前端开发工程师",
+    "salary": "6-11k·14薪",
+    "company": {
+      "name": "千变科技",
+      "finance": "未融资"
+    },
+    "tags": ["渝北区 大竹林", "1-3年", "本科"],
+    "recruiter": {
+      "name": "刘丽乐",
+      "position": "人事专员"
+    }
+  },
+  {
+    "name": "java研发组长/开发",
+    "salary": "12-20k",
+    "company": {
+      "name": "一合智链",
+      "finance": "未融资"
+    },
+    "tags": ["九龙坡区", "3-5年", "本科"],
+    "recruiter": {
+      "name": "张女士",
+      "position": "招聘者"
+    }
+  },
+  {
+    "name": "前端开发H5",
+    "salary": "10-15k·13薪",
+    "company": {
+      "name": "盛趣时代",
+      "finance": "不需要融资"
+    },
+    "tags": ["渝中区 大坪", "3-5年", "本科"],
+    "recruiter": {
+      "name": "谢先生",
+      "position": "招聘者"
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "中移物联网",
+    "address": "重庆市 渝北区 光电园",
+    "tags": ["未融资", "1000-9999人", "移动互联网"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 28
+    }
+  },
+  {
+    "name": "浩瀚海外",
+    "address": "重庆",
+    "tags": ["未融资", "100-499人", "电子商务"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 120
+    }
+  },
+  {
+    "name": "重庆迅游",
+    "address": "重庆",
+    "tags": ["未融资", "100-499人", "游戏"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 67
+    }
+  },
+  {
+    "name": "佰阳高科科技有限公司",
+    "address": "重庆市 南岸区 海尔路",
+    "tags": ["未融资", "100-499人", "计算机软件"],
+    "hot_position": {
+      "name": "iOS",
+      "count": 66
+    }
+  },
+  {
+    "name": "三赢伟业",
+    "address": "重庆市 南岸区 海尔路",
+    "tags": ["500-999人", "企业服务"],
+    "hot_position": {
+      "name": "移动原生开发工程师",
+      "count": 43
+    }
+  },
+  {
+    "name": "胡莱游戏",
+    "address": "重庆市 渝北区 大竹林",
+    "tags": ["C轮", "1000-9999人", "游戏"],
+    "hot_position": {
+      "name": "高级iOS开发工程师",
+      "count": 140
+    }
+  },
+  {
+    "name": "软江",
+    "address": "重庆市 江北区 观音桥",
+    "tags": ["A轮", "20-99人", "计算机软件"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 33
+    }
+  },
+  {
+    "name": "星坛",
+    "address": "重庆市 江北区 五里店",
+    "tags": ["不需要融资", "100-499人", "互联网"],
+    "hot_position": {
+      "name": "高级iOS工程师",
+      "count": 48
+    }
+  },
+  {
+    "name": "拓保软件",
+    "address": "重庆市 江北区 大石坝",
+    "tags": ["不需要融资", "1000-9999人", "计算机软件"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 203
+    }
+  },
+  {
+    "name": "中移物联网",
+    "address": "重庆市 渝北区 光电园",
+    "tags": ["未融资", "1000-9999人", "移动互联网"],
+    "hot_position": {
+      "name": "iOS开发工程师",
+      "count": 12
+    }
+  },
+  {
+    "name": "固守传媒",
+    "address": "重庆市 渝中区 重庆天地",
+    "tags": ["未融资", "100-499人", "互联网"],
+    "hot_position": {
+      "name": "SDK开发工程师",
+      "count": 7
+    }
+  },
+  {
+    "name": "沙师弟",
+    "address": "重庆市 南岸区 南坪",
+    "tags": ["B轮", "100-499人", "互联网"],
+    "hot_position": {
+      "name": "iOS",
+      "count": 60
+    }
+  },
+  {
+    "name": "甜瓜移动",
+    "address": "重庆市 渝北区 光电园",
+    "tags": ["不需要融资", "20-99人", "移动互联网"],
+    "hot_position": {
+      "name": "iOS工程师",
+      "count": 6
+    }
+  },
+  {
+    "name": "浪潮集团",
+    "address": "重庆市 渝北区 光电园",
+    "tags": ["已上市", "1000人以上", "计算机软件"],
+    "hot_position": {
+      "name": "iOS",
+      "count": 1158
+    }
+  },
+  {
+    "name": "觉晓教育",
+    "address": "重庆市 渝北区 回兴",
+    "tags": ["不需要融资", "100-499人", "互联网"],
+    "hot_position": {
+      "name": "iOS工程师",
+      "count": 34
+    }
+  }
+]
