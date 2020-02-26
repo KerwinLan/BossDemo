@@ -3,6 +3,7 @@ import 'package:areas/cells/position_cell.dart';
 import 'package:flutter/cupertino.dart';
 import '../styles.dart';
 import 'package:areas/loader.dart';
+import 'detail_page.dart';
 
 class PositionPage extends StatelessWidget {
   @override
@@ -87,6 +88,12 @@ class _PositionBodyState extends State<PositionBody> {
   }
 
   Widget _itemBuilder(BuildContext context, int index) {
-    return PositionCell(item: _list[index]);
+    return GestureDetector(
+      onTap: () {
+        Navigator.of(context, rootNavigator: true)
+            .push(MaterialPageRoute(builder: (context) => DetailPage(title: _list[index]['name'],)));
+      },
+      child: PositionCell(item: _list[index]),
+    );
   }
 }
